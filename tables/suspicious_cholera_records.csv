@@ -1,0 +1,2 @@
+entity,code,year,reported_cases,reported_deaths,cfr_percent,deaths_exceed_cases,zero_cases_with_deaths,zero_cases,small_outbreak,very_small_outbreak,cfr_over_100
+Italy,ITA,1998,2,9,450,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE

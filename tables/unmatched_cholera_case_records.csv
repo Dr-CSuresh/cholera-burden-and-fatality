@@ -1,0 +1,129 @@
+entity,code,year,reported_cases
+Afghanistan,AFG,2002,3
+Afghanistan,AFG,2021,4755
+Angola,AGO,1971,1
+Australia,AUS,1998,5
+Australia,AUS,2000,1
+Australia,AUS,2001,2
+Australia,AUS,2002,5
+Australia,AUS,2015,2
+Austria,AUT,1998,1
+Austria,AUT,2001,0
+Austria,AUT,2002,1
+Bahamas,BHS,2011,1
+Bangladesh,BGD,2020,212
+Bangladesh,BGD,2021,477
+Belgium,BEL,1992,1
+Brunei,BRN,2011,3
+Burkina Faso,BFA,2003,1
+Burundi,BDI,1990,82
+Burundi,BDI,1991,3
+Burundi,BDI,1995,2297
+Burundi,BDI,1996,418
+Cambodia,KHM,2021,26
+Canada,CAN,2001,6
+Canada,CAN,2003,5
+Canada,CAN,2011,9
+China,CHN,2011,26
+China,CHN,2021,5
+Congo,COG,2011,762
+Czechia,CZE,2002,2
+Ecuador,ECU,2003,25
+Eswatini,SWZ,1978,2
+Finland,FIN,1981,1
+Finland,FIN,1994,2
+Finland,FIN,1998,1
+France,FRA,1981,20
+France,FRA,1989,1
+France,FRA,2001,2
+France,FRA,2002,1
+Gabon,GAB,2002,6
+Germany,DEU,1998,5
+Germany,DEU,2000,2
+Germany,DEU,2001,1
+Germany,DEU,2002,1
+Germany,DEU,2003,1
+Germany,DEU,2016,1
+Germany,DEU,1975,1
+Guatemala,GTM,2003,1
+India,IND,2020,70
+India,IND,1960,14621
+India,IND,1967,13708
+India,IND,1968,22587
+India,IND,1969,19280
+Iran,IRN,2001,105
+Iran,IRN,2002,118
+Iran,IRN,1965,5037
+Iran,IRN,1966,162
+Iran,IRN,1967,221
+Iran,IRN,1969,557
+Iran,IRN,1970,19663
+Iran,IRN,1971,344
+Iran,IRN,1972,322
+Iran,IRN,1973,55
+Iran,IRN,1974,304
+Iran,IRN,1975,2966
+Iran,IRN,1976,2100
+Iran,IRN,1977,10836
+Iran,IRN,1978,264
+Iraq,IRQ,2001,560
+Iraq,IRQ,2002,718
+Ireland,IRL,2001,1
+Japan,JPN,2001,11
+Japan,JPN,2011,12
+Japan,JPN,2015,7
+Japan,JPN,1969,8
+Japan,JPN,1970,5
+Kazakhstan,KAZ,2001,1
+Kuwait,KWT,1997,1
+Lebanon,LBN,1994,3
+Liberia,LBR,2011,1146
+Malaysia,MYS,2021,64
+Malaysia,MYS,1969,70
+Myanmar,MMR,2011,16
+Myanmar,MMR,2014,400
+Nepal,NPL,2011,12
+Netherlands,NLD,1981,2
+Netherlands,NLD,2000,1
+Netherlands,NLD,2002,1
+Netherlands,NLD,2003,1
+Netherlands,NLD,2020,2
+New Zealand,NZL,2001,1
+North Korea,PRK,1996,7
+Oman,OMN,2001,7
+Oman,OMN,2002,1
+Oman,OMN,2021,5
+Pakistan,PAK,2020,21
+Pakistan,PAK,2021,21
+Pakistan,PAK,1976,144
+Philippines,PHL,2001,174
+Poland,POL,1981,1
+Qatar,QAT,2002,1
+Russia,RUS,1992,6
+Russia,RUS,2007,1
+Saudi Arabia,SAU,2002,38
+Senegal,SEN,2011,5
+Singapore,SGP,2002,2
+Singapore,SGP,2011,2
+Singapore,SGP,1953,0
+Somalia,SOM,2014,2820
+South Korea,KOR,2011,3
+Spain,ESP,1984,4
+Spain,ESP,2001,1
+Spain,ESP,2002,1
+Spain,ESP,1971,22
+Spain,ESP,1974,5
+Spain,ESP,1979,267
+Sweden,SWE,2003,1
+Switzerland,CHE,1981,2
+Switzerland,CHE,1998,2
+United Arab Emirates,ARE,2002,3
+United Kingdom,GBR,1980,6
+United Kingdom,GBR,2000,33
+United Kingdom,GBR,2003,9
+United States,USA,2001,4
+United States,USA,2002,2
+United States,USA,2003,2
+Vietnam,VNM,2011,3
+Zimbabwe,ZWE,1986,2
+Zimbabwe,ZWE,1973,1
