@@ -213,7 +213,7 @@ plot_cfr_size_groups <- cholera_cfr |>
     )
   ) +
   labs(
-    title = "CFR variability decreases as reported outbreak size increases",
+    title = "Reported CFR distribution varies with outbreak size",
     subtitle = "Country-year cholera observations grouped by reported case count",
     x = "Reported outbreak size",
     y = "Reported CFR (%)",
