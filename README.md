@@ -279,46 +279,6 @@ Examines the geographic distribution of reported burden between 1970 and 2021.
 
 ---
 
-## Repository structure
-
-```text
-cholera-burden-and-fatality/
-│
-├── data/
-│   ├── raw/
-│   │   ├── 1- the-number-of-cases-of-infectious-diseases.csv
-│   │   └── 5- number-of-reported-cholera-deaths.csv
-│   │
-│   └── processed/
-│       ├── cholera_cases.csv
-│       ├── cholera_deaths.csv
-│       └── cholera_linked.csv
-│
-├── plots/
-│   ├── 01_reported_cholera_cases_over_time.png
-│   ├── 02_reported_cholera_deaths_over_time.png
-│   ├── 03_weighted_cholera_cfr_over_time.png
-│   ├── 04_cholera_reporting_over_time.png
-│   ├── 05_cfr_vs_outbreak_size.png
-│   ├── 06_cfr_by_outbreak_size.png
-│   ├── 07_persistent_cholera_hotspots.png
-│   ├── 08_cholera_top_five_frequency.png
-│   └── 09_cholera_burden_concentration.png
-│
-├── tables/
-│   └── analysis outputs
-│
-├── 01_data_audit.R
-├── 02_data_cleaning_and_linkage.R
-├── 03_burden_and_cfr_trends.R
-├── 04_cfr_and_outbreak_size.R
-├── 05_hotspot_persistence.R
-│
-└── README.md
-```
-
----
-
 ## Epidemiological considerations
 
 ### Reported cases are not equivalent to true incidence
@@ -392,20 +352,6 @@ tidyverse
 here
 scales
 ```
-
-Core techniques demonstrated in this repository include:
-
-- data cleaning
-- dataset linkage
-- missing-data assessment
-- surveillance quality assurance
-- calculation of epidemiological ratios
-- denominator sensitivity analysis
-- non-parametric correlation
-- longitudinal analysis
-- ranking and hotspot classification
-- burden concentration analysis
-- reproducible data visualisation with `ggplot2`.
 
 ---
 
